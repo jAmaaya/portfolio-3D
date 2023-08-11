@@ -36,8 +36,6 @@ To experience Jairo's 3D Portfolio locally:
 4. Customize the web app with your own remarkable 3D design projects and personal touch.
 
 ## License
-This project operates under the [MIT License](LICENSE).
-
 Feel free to leverage, modify, and adapt this project as a foundation for your own portfolio, showcasing your artistic endeavors.
 
 ---
